@@ -98,3 +98,26 @@ body {
     font-weight: bold;
 }
 
+.voltar {
+    font-weight: bold;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    margin-top: 50px;
+}
+
+.linha {
+    display: flex;
+    align-items: center;
+    
+}
+
+.resumo {
+    width: 400px;
+    color: white;
+    font-size: 18px;
+    font-family: arial;
+    line-height: 22px;
+    margin-right: 50px;
+    text-align: justify;
+}
